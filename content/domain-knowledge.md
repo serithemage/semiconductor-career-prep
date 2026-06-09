@@ -3,7 +3,7 @@
 > 대상: 경영정보/전산 전공으로 삼성DS·SK하이닉스·NVIDIA의 **SW·데이터·IT 직무**를 노리는 사람.
 > 목표: 공정을 개발하는 수준이 아니라, **"공정·수율·설비 데이터가 무엇이고 왜 돈(원가·품질)과 직결되는지를 IT 언어로 번역"**할 수 있는 수준.
 > 원칙: 얕고 넓게 + **데이터 접점은 깊게**. 모든 개념을 "내 IT 역량과 어떻게 연결되나"로 닫는다.
-> 설계 근거: [[../docs/domain-knowledge-module.md]]
+> 설계 근거: [domain-knowledge-module.md](../docs/domain-knowledge-module.md)
 
 ---
 

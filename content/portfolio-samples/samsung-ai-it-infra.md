@@ -2,8 +2,8 @@
 
 > 이 문서는 **하나의 직무를 골라 "증명해야 할 역량 → hard-to-fake 포트폴리오"로 변환한 샘플**이다.
 > 다른 직무도 같은 틀(① JD에서 역량 추출 → ② 검증 가능한 프로젝트 설계 → ③ 스토리)로 복제할 수 있다.
-> 근거: [[../../docs/jd-reverse-mapping.md]], [[../../docs/portfolio-hire-cases.md]], [[../../docs/domain-knowledge-module.md]]
-> 자매 샘플: [[skhynix-yield-data-analysis.md]] (수율 데이터분석 트랙) — 같은 구조로 비교해 읽으면 좋다.
+> 근거: [jd-reverse-mapping.md](../../docs/jd-reverse-mapping.md), [portfolio-hire-cases.md](../../docs/portfolio-hire-cases.md), [domain-knowledge-module.md](../../docs/domain-knowledge-module.md)
+> 자매 샘플: [skhynix-yield-data-analysis.md](skhynix-yield-data-analysis.md) (수율 데이터분석 트랙) — 같은 구조로 비교해 읽으면 좋다.
 
 ## 0. 왜 이 직무인가 (경영정보/전산 적합도 ★★★★)
 - 삼성 DS 모집전공에 **컴퓨터·산업공학 명시** → 전산은 정공법, **경영정보(MIS)도 우호적**(정보시스템 기획·DB·정보보안 거버넌스가 직결).

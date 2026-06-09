@@ -25,17 +25,17 @@
 
 ## What
 
-**날카로워진 명제(2026-06-09)**: 전산/경영정보 전공자가 **바이브 코딩 기반 데이터 사이언스**로, **오픈소스 + 오픈 데이터셋**(WM-811K·SECOM 등)을 활용해 **공정개선·불량탐지** 등 반도체 기업이 관심 가질 프로젝트를 포트폴리오로 만들어 취업한다. 조사: [[docs/portfolio-research.md]]
+**날카로워진 명제(2026-06-09)**: 전산/경영정보 전공자가 **바이브 코딩 기반 데이터 사이언스**로, **오픈소스 + 오픈 데이터셋**(WM-811K·SECOM 등)을 활용해 **공정개선·불량탐지** 등 반도체 기업이 관심 가질 프로젝트를 포트폴리오로 만들어 취업한다. 조사: [portfolio-research.md](docs/portfolio-research.md)
 
-첫 탐구(JD 역매핑, [[docs/jd-reverse-mapping.md]])로 다음이 구체화됨:
+첫 탐구(JD 역매핑, [jd-reverse-mapping.md](docs/jd-reverse-mapping.md))로 다음이 구체화됨:
 
 - **타깃 직무 범위** — SW·데이터·ML·IT 직무에 집중 (탐구2 검증: 이 영역만 포트폴리오 증명이 통함). R&D/공정·소자/칩설계는 다루지 않거나 신중히.
-- **직무별 "증명해야 할 역량" 맵** — 3사 × 경영정보/전산 지원가능 직무 (확보됨, [[docs/jd-reverse-mapping.md]])
+- **직무별 "증명해야 할 역량" 맵** — 3사 × 경영정보/전산 지원가능 직무 (확보됨, [jd-reverse-mapping.md](docs/jd-reverse-mapping.md))
 - **전공 강점 → 직무 연결 가이드** — 경영정보: 하이닉스 IT(전공 명시)·삼성 AI/IT인프라·SCM / 전산: 3사 코딩·SW 트랙
 - **검증 가능 포트폴리오 설계 가이드** — 핵심 원칙: hard-to-fake(DACON/Kaggle 입상·SOTA 재현·공개 리더보드·실제 배포). 직무맥락+STAR 서사+자소서 직결까지 패키지로.
 - **채용 로드맵 타임라인** — 기업별 전형·일정 1차 확보(예: 하이닉스 2026 상반기 3/10~). 자격증 우선순위 정리 필요
-- **AI 활용 최적화 워크플로** — 4대 워크플로 확정([[docs/ai-workflow.md]]): JD↔역량 갭분석 / 포트폴리오 아이디어·hard-to-fake 검증 / 자소서 STAR 직무직결(refine만) / 코테·면접 대비. "AI 80%, 진정성·깊이 20% 본인" 원칙
-- **반도체 도메인 지식 압축 모듈** — 6모듈 목차 확정([[docs/domain-knowledge-module.md]]): 제조 1분 브리핑 → 수율·불량 → 스마트팩토리 IT스택 → DS 특수성 → 회사별 맞춤. "얕고 넓게 + 데이터 접점은 깊게"
+- **AI 활용 최적화 워크플로** — 4대 워크플로 확정([ai-workflow.md](docs/ai-workflow.md)): JD↔역량 갭분석 / 포트폴리오 아이디어·hard-to-fake 검증 / 자소서 STAR 직무직결(refine만) / 코테·면접 대비. "AI 80%, 진정성·깊이 20% 본인" 원칙
+- **반도체 도메인 지식 압축 모듈** — 6모듈 목차 확정([domain-knowledge-module.md](docs/domain-knowledge-module.md)): 제조 1분 브리핑 → 수율·불량 → 스마트팩토리 IT스택 → DS 특수성 → 회사별 맞춤. "얕고 넓게 + 데이터 접점은 깊게"
 
 ## Not
 
@@ -47,7 +47,7 @@
 
 ### 2026-06-08 — 탐구 1: JD 역매핑 (삼성·하이닉스·엔비디아)
 
-전체 결과: [[docs/jd-reverse-mapping.md]]
+전체 결과: [jd-reverse-mapping.md](docs/jd-reverse-mapping.md)
 
 - **가설 보강됨**: "증명하면 기회가 열린다"는 맞되, **'증명'의 형태가 회사마다 다르다**. 삼성=직무기술서 기반 자소서+창의성면접, 하이닉스=C/C++ 코딩테스트+1회 면접, 엔비디아=시스템 디자인+영어 프로젝트 설명+referral.
 - **경영정보학과는 우회가 아니라 정공법**: SK하이닉스 신입 IT 직무기술서 모집전공에 "경영정보학" 명시. → "직무 매칭 모호함" 문제의 일부는 정보 부족이었음.
@@ -57,7 +57,7 @@
 
 ### 2026-06-08 — 탐구 2: 포트폴리오 합격 사례 역추적 (국내·해외)
 
-전체 결과: [[docs/portfolio-hire-cases.md]]
+전체 결과: [portfolio-hire-cases.md](docs/portfolio-hire-cases.md)
 
 - **가설 판정: 조건부 참**. "포트폴리오로 증명하면 전공 무관 취업 가능"은 실명 사례로 입증됨(국내: 초등교사→삼성SW, 퇴사자→SK하이닉스 데이터분석 / 해외: Titericz·Deotte·Tunguz→NVIDIA, NVIDIA가 KGMON 팀으로 제도화). **단 3가지 단서**:
   1. **직무 한정** — SW·데이터·ML·IT만 성립. R&D/공정·소자·칩설계는 전공 장벽 견고.
@@ -70,7 +70,7 @@
 
 ### 2026-06-08 — 탐구 3: 남은 (?) 해소 (AI 워크플로 / 도메인 모듈)
 
-전체 결과: [[docs/ai-workflow.md]], [[docs/domain-knowledge-module.md]]
+전체 결과: [ai-workflow.md](docs/ai-workflow.md), [domain-knowledge-module.md](docs/domain-knowledge-module.md)
 
 - **AI 워크플로 확정**: 4단계(JD 갭분석 / 포트폴리오 hard-to-fake 검증 / 자소서 STAR refine / 코테·면접 대비). 핵심 발견 — 2026 시장은 "deploy된 앱=신호 소멸(proof of work→proof of prompt)". 위조 어려운 4신호(협업커밋·운영흔적·git 텍스처·레퍼런스)에 재투자해야. **AI는 코파일럿, 면접 중 실시간 사용은 치팅** → Not과 일관.
 - **도메인 모듈 확정**: 6모듈. "공정 개발 수준 ❌ → 데이터가 돈과 직결되는 이유를 IT 언어로 번역하는 수준". 깊이 갈 곳(수율·MES·SECS/GEM·VM/FDC) vs 과한 곳(소자물리·회로설계·TCAD) 경계 명확화. 회사별: 삼성/SK는 도메인 깊이↑, NVIDIA는 CS/AI 본체.
@@ -82,7 +82,7 @@
 
 ### 2026-06-09 — 탐구 4: 바이브 코딩 포트폴리오 조사 (데이터셋/오픈소스/기업 관심 프로젝트)
 
-전체 결과: [[docs/portfolio-research.md]]
+전체 결과: [portfolio-research.md](docs/portfolio-research.md)
 
 - **명제 구체화**: "바이브 코딩 기반 DS + 오픈소스/오픈데이터로 공정개선·불량탐지 포트폴리오"로 What이 한 단계 날카로워짐.
 - **데이터 확보**: WM-811K(CC0, 81만 웨이퍼맵)·SECOM(CC BY, 공정센서)이 반도체 직결 핵심. 실 fab/SEM은 기밀 → 인접 데이터(MVTec·C-MAPSS) 대체.

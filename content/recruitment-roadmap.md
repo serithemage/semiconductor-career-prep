@@ -1,7 +1,7 @@
 # 반도체 취업 준비 로드맵 타임라인
 
 > 경영정보/전산 전공자가 삼성DS·SK하이닉스·NVIDIA의 SW·데이터·IT 직무를 노릴 때, **무엇을 언제 준비할지**를 시기별·기업별로 정리.
-> 근거: [[../docs/jd-reverse-mapping.md]], [[../docs/portfolio-hire-cases.md]]
+> 근거: [jd-reverse-mapping.md](../docs/jd-reverse-mapping.md), [portfolio-hire-cases.md](../docs/portfolio-hire-cases.md)
 > ⚠️ 일정은 연도마다 바뀐다. 지원 시점에 각 사 채용 페이지에서 반드시 재확인.
 
 ---
@@ -24,14 +24,14 @@
 ### D-12개월 ~ D-9개월 — 기반 다지기
 - [ ] **방향 결정**: 직무 1~2개 선택(JD 역매핑 참고) → 본인 전공 강점과 연결
 - [ ] **코딩 기본기**: 목표 회사 코테 언어로 알고리즘 시작 (삼성/SK는 C/C++ 권장)
-- [ ] **도메인 학습 시작**: [[domain-knowledge.md]] 모듈 0~2
+- [ ] **도메인 학습 시작**: [domain-knowledge.md](domain-knowledge.md) 모듈 0~2
 - [ ] **영어회화 착수**(삼성 지원 시 필수): OPIc/TOEIC Speaking 목표 설정
 
 ### D-9개월 ~ D-5개월 — 포트폴리오 빌드
-- [ ] **JD 갭분석** 실행([[templates/jd-gap-analysis.md]]) → 갭 우선순위 도출
-- [ ] **hard-to-fake 포트폴리오 1~2건** 제작([[portfolio-samples/]] 참고): 실데이터+배포+협업+정량성과
+- [ ] **JD 갭분석** 실행([jd-gap-analysis.md](templates/jd-gap-analysis.md)) → 갭 우선순위 도출
+- [ ] **hard-to-fake 포트폴리오 1~2건** 제작([portfolio-samples/](portfolio-samples/) 참고): 실데이터+배포+협업+정량성과
 - [ ] **자격증**(아래 C 참고): 데이터 직무면 빅데이터분석기사/ADsP, 보안/MIS면 정보보안기사·ISMS-P, SCM면 CPIM
-- [ ] 도메인 모듈 3~5 + [[domain-quiz.md]]로 자가진단
+- [ ] 도메인 모듈 3~5 + [domain-quiz.md](domain-quiz.md)로 자가진단
 
 ### D-5개월 ~ D-2개월 — 전형 대비
 - [ ] **코테/SW역량테스트 집중**: 기출 유형, 시간 제한 모의(삼성 240분 2문제 / SK 2시간 4문제)

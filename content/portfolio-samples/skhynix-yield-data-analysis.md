@@ -2,7 +2,7 @@
 
 > 이 문서는 **하나의 직무를 골라 "증명해야 할 역량 → hard-to-fake 포트폴리오"로 변환한 샘플**이다.
 > 다른 직무도 같은 틀(① JD에서 역량 추출 → ② 검증 가능한 프로젝트 설계 → ③ 스토리)로 복제할 수 있다.
-> 근거: [[../../docs/jd-reverse-mapping.md]], [[../../docs/portfolio-hire-cases.md]], [[../../docs/domain-knowledge-module.md]]
+> 근거: [jd-reverse-mapping.md](../../docs/jd-reverse-mapping.md), [portfolio-hire-cases.md](../../docs/portfolio-hire-cases.md), [domain-knowledge-module.md](../../docs/domain-knowledge-module.md)
 
 ## 0. 왜 이 직무인가 (경영정보/전산 적합도 ★★★★)
 - SK하이닉스 신입 IT 직무기술서 모집전공에 **경영정보학 명시** → 정공법.

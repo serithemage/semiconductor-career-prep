@@ -2,7 +2,7 @@
 
 > 바이브 코딩 기반 데이터 사이언스로 만드는 반도체 포트폴리오 후보 3종의 1페이지 스펙.
 > 권고: **3개를 얕게 < 1~2개를 깊게**. 아래를 비교해 깊게 만들 것을 고른다.
-> 근거: [[../../docs/portfolio-research.md]] / 모든 프로젝트는 [[../../INTENT.md]]의 Not(허위 금지)·hard-to-fake 원칙을 지킨다.
+> 근거: [portfolio-research.md](../../docs/portfolio-research.md) / 모든 프로젝트는 [INTENT.md](../../INTENT.md)의 Not(허위 금지)·hard-to-fake 원칙을 지킨다.
 
 ## 한눈에 비교
 | | A. WBM 분류+공정원인 해석 | B. 수율예측 Large-P-Small-N | C. WBM 유사사례 RCA |

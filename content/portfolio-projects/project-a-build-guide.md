@@ -2,7 +2,7 @@
 
 > 플래그십 포트폴리오. WM-811K 웨이퍼맵 9패턴 분류기를 만들고, 한 걸음 더 나아가 **"이 불량 패턴은 어느 공정의 어떤 원인인가"를 해석하는 진단 리포트**까지 만든다.
 > 차별화의 핵심은 모델 정확도가 아니라 **③ 공정원인 해석 레이어**다. 캐글 따라하기와 갈리는 지점.
-> 근거: [[../../docs/portfolio-research.md]], [[overview.md]] · 원칙: [[../../INTENT.md]] Not(허위 금지)·hard-to-fake
+> 근거: [portfolio-research.md](../../docs/portfolio-research.md), [overview.md](overview.md) · 원칙: [INTENT.md](../../INTENT.md) Not(허위 금지)·hard-to-fake
 
 ## 이 가이드의 사용법 (바이브 코딩 전제)
 - 각 단계에 **🤖 바이브 코딩 프롬프트**(AI에게 시킬 것)와 **✅ 내가 검증할 것**(직접 확인)을 나눠 적었다.
@@ -100,7 +100,7 @@
 여기가 캐글 클론과 갈리는 지점. 분류 결과를 **공정 도메인 언어로 번역**한다.
 
 ### 6.1 패턴 → 공정원인 매핑 룰 (코드로 구현)
-아래 표를 `process_cause_map.py`의 규칙으로 만든다. (출처: [[../../docs/portfolio-research.md]] / [[../domain-knowledge.md]] 모듈 2)
+아래 표를 `process_cause_map.py`의 규칙으로 만든다. (출처: [portfolio-research.md](../../docs/portfolio-research.md) / [domain-knowledge.md](../domain-knowledge.md) 모듈 2)
 
 | WBM 패턴 | 추정 공정 근본원인 | 구분 단서 |
 |---|---|---|

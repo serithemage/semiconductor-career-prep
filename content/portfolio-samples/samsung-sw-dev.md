@@ -2,7 +2,7 @@
 
 > 이 문서는 **하나의 직무를 골라 "증명해야 할 역량 → hard-to-fake 포트폴리오"로 변환한 샘플**이다.
 > 다른 직무도 같은 틀(① JD에서 역량 추출 → ② 검증 가능한 프로젝트 설계 → ③ 스토리)로 복제할 수 있다.
-> 근거: [[../../docs/jd-reverse-mapping.md]], [[../../docs/portfolio-hire-cases.md]], [[../../docs/domain-knowledge-module.md]]
+> 근거: [jd-reverse-mapping.md](../../docs/jd-reverse-mapping.md), [portfolio-hire-cases.md](../../docs/portfolio-hire-cases.md), [domain-knowledge-module.md](../../docs/domain-knowledge-module.md)
 
 ## 0. 왜 이 직무인가 (전산/CS 적합도 ★★★★★)
 - 삼성 DS부문 직무 중 **전산/CS 전공자 최우선 타깃**(JD 역매핑 ★★★). 모집 트랙이 SW개발이라 CS 역량이 곧 직무 적합도.
@@ -92,4 +92,4 @@
 3. 2.3의 **4신호**를 의도적으로 심기. SW개발 직무는 특히 **CI·테스트·인터페이스 협업** 흔적이 강한 신호.
 4. 3번처럼 STAR + 5단계 프레임으로 스토리화하되, **자소서 4번(직무 전문지식)**에 정조준.
 
-> 짝 샘플: [[skhynix-yield-data-analysis.md]](데이터분석 트랙). 다음 후보: 삼성 AI/IT인프라(Autonomous Factory), NVIDIA SW Engineer NCG. 각각 JD 매핑 → 같은 틀 적용.
+> 짝 샘플: [skhynix-yield-data-analysis.md](skhynix-yield-data-analysis.md)(데이터분석 트랙). 다음 후보: 삼성 AI/IT인프라(Autonomous Factory), NVIDIA SW Engineer NCG. 각각 JD 매핑 → 같은 틀 적용.

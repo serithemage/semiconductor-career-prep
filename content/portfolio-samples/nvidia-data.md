@@ -2,16 +2,16 @@
 
 > 이 문서는 **하나의 직무를 골라 "증명해야 할 역량 → hard-to-fake 포트폴리오"로 변환한 샘플**이다.
 > 레퍼런스(SK하이닉스 수율 샘플)와 **같은 틀**(① JD에서 역량 추출 → ② 검증 가능한 프로젝트 설계 → ③ 스토리)을 따른다.
-> 근거: [[../../docs/jd-reverse-mapping.md]] (NVIDIA 항목), [[../../docs/portfolio-hire-cases.md]] (Kaggle/KGMON 경로), [[../../docs/domain-knowledge-module.md]]
+> 근거: [jd-reverse-mapping.md](../../docs/jd-reverse-mapping.md) (NVIDIA 항목), [portfolio-hire-cases.md](../../docs/portfolio-hire-cases.md) (Kaggle/KGMON 경로), [domain-knowledge-module.md](../../docs/domain-knowledge-module.md)
 
 ## 0. 왜 이 직무인가 (CS·MIS 적합도 ★★★★)
 
 - NVIDIA 데이터 직무(DS/DE/Analyst)는 **CS·MIS 양쪽 모두에게 열린 현실적 글로벌 진입로** — 칩설계(RTL/Verilog)와 달리 전공·학위 장벽이 상대적으로 낮음(탐구2 "조건부 참": SW/데이터/ML 직무에서만 가설 성립).
 - 다만 **냉정한 현실 3가지**를 전제로 설계한다:
-  1. **다수가 경력 요구**(7년+ 흔함). 신입은 **글로벌 NCG/인턴 + 인프라·데이터 직무로 우회**가 현실적([[jd-reverse-mapping.md]] §3).
+  1. **다수가 경력 요구**(7년+ 흔함). 신입은 **글로벌 NCG/인턴 + 인프라·데이터 직무로 우회**가 현실적([jd-reverse-mapping.md](../../docs/jd-reverse-mapping.md) §3).
   2. **referral이 사실상 필수** — 대량지원 거절률 ~80%. "지원 버튼"이 아니라 "사람"으로 들어간다.
   3. **영문 이력서 + 영어 면접 필수** — 단 영어 실력보다 기술·문제해결이 우선.
-- 그래서 이 포트폴리오는 단순 GitHub이 아니라 **"객관적으로 순위화·검증 가능한(hard-to-fake)" 성과물 + referral을 끌어오는 공개 활동**으로 설계한다. NVIDIA가 Kaggle 성과를 **KGMON(Kaggle Grandmasters of NVIDIA)** 팀으로 제도화했다는 사실 자체가 "검증가능 포트폴리오 = 채용신호"임을 회사가 인정한 증거다(Titericz·Deotte·Tunguz, [[portfolio-hire-cases.md]]).
+- 그래서 이 포트폴리오는 단순 GitHub이 아니라 **"객관적으로 순위화·검증 가능한(hard-to-fake)" 성과물 + referral을 끌어오는 공개 활동**으로 설계한다. NVIDIA가 Kaggle 성과를 **KGMON(Kaggle Grandmasters of NVIDIA)** 팀으로 제도화했다는 사실 자체가 "검증가능 포트폴리오 = 채용신호"임을 회사가 인정한 증거다(Titericz·Deotte·Tunguz, [portfolio-hire-cases.md](../../docs/portfolio-hire-cases.md)).
 
 ---
 
@@ -36,7 +36,7 @@
 
 > 공개 테이블·시계열 Kaggle/DACON 대회에서 **메달권 입상을 목표로 한 검증가능 솔루션**을 만들고, 그 파이프라인을 **RAPIDS(cuDF/cuML)로 GPU 가속**해 CPU 대비 속도·규모 우위를 수치로 증명하며, 동시에 **GPU MODE KernelBot 공개 리더보드**에 CUDA 커널을 제출해 "GPU를 다룰 줄 안다"는 NVIDIA 특이적 신호를 심는다.
 
-- **왜 hard-to-fake한가**: Kaggle 순위(public+private LB), RAPIDS 벤치마크 수치, GPU MODE 리더보드 등수는 **모두 제3자가 검증하고 위조 불가능**하다. Tunguz의 표현 — "Grandmaster는 위조하기 매우 어렵다, top 대학 박사보다 도달이 어렵다"([[portfolio-hire-cases.md]]). 막연한 토이프로젝트와 명확히 갈린다.
+- **왜 hard-to-fake한가**: Kaggle 순위(public+private LB), RAPIDS 벤치마크 수치, GPU MODE 리더보드 등수는 **모두 제3자가 검증하고 위조 불가능**하다. Tunguz의 표현 — "Grandmaster는 위조하기 매우 어렵다, top 대학 박사보다 도달이 어렵다"([portfolio-hire-cases.md](../../docs/portfolio-hire-cases.md)). 막연한 토이프로젝트와 명확히 갈린다.
 - **데이터셋/플랫폼**: Kaggle(테이블/시계열 대회) 또는 DACON(국내, 영어 자신 없으면 워밍업), RAPIDS(GPU DataFrame/ML), GPU MODE Discord + KernelBot 리더보드.
 
 ### 2.2 역량 커버리지 매핑
@@ -54,7 +54,7 @@
 
 2026년엔 "deploy된 앱"만으론 부족하다. NVIDIA 데이터 직무에선 다음을 의도적으로 심는다:
 
-1. **순위화된 성과** — Kaggle/DACON **메달권 입상(또는 상위 %)** + 공개 솔루션 write-up. GPU MODE **KernelBot 리더보드 제출 기록**(= "Kaggle의 GPU판", [[portfolio-hire-cases.md]]). 등수는 위조 불가.
+1. **순위화된 성과** — Kaggle/DACON **메달권 입상(또는 상위 %)** + 공개 솔루션 write-up. GPU MODE **KernelBot 리더보드 제출 기록**(= "Kaggle의 GPU판", [portfolio-hire-cases.md](../../docs/portfolio-hire-cases.md)). 등수는 위조 불가.
 2. **GPU 가속 벤치마크** — RAPIDS(cuDF/cuML)로 동일 파이프라인을 GPU에서 돌려 **CPU 대비 처리시간/규모 수치**를 README에 기록. NVIDIA가 보고 싶은 정확히 그 신호.
 3. **개발자다운 git 히스토리 + OSS 기여** — atomic 커밋, RAPIDS/관련 OSS에 **PR 1건** → 타인 리뷰가 git에 남게. "initial commit에 5천 줄" 금지.
 4. **referral 경로 + 영어 공개성** — GPU MODE/Kaggle 디스커션에서 활동 → **현직자·커뮤니티 멤버와의 접점**을 referral로 전환. 모든 산출물은 **영문**으로 공개(영어 면접의 사전 증명).
@@ -74,7 +74,7 @@
 
 - ❌ **LB 점수·등수 조작/대리참여** — Kaggle 순위는 검증 인프라 자체. 조작은 영구 신호 파괴이자 "hiring managers can smell fake numbers".
 - ❌ **공개 솔루션을 그대로 복붙해 자기 것으로** — 면접 후속질문(왜 이 피처? 왜 이 CV?)에서 즉시 붕괴. 출처 인용하고 "재현+개선"으로 정직하게 프레이밍.
-- ❌ **AI가 통째로 짠 코드를 이해 없이 제출** — NVIDIA는 "코드가 하드웨어/메모리와 어떻게 상호작용하는지 설명하는 능력"을 본다([[jd-reverse-mapping.md]] §3). 이해 못 하면 시스템 디자인 라운드에서 무너진다.
+- ❌ **AI가 통째로 짠 코드를 이해 없이 제출** — NVIDIA는 "코드가 하드웨어/메모리와 어떻게 상호작용하는지 설명하는 능력"을 본다([jd-reverse-mapping.md](../../docs/jd-reverse-mapping.md) §3). 이해 못 하면 시스템 디자인 라운드에서 무너진다.
 - ❌ **referral을 스팸으로 구걸** — 평판은 기여로 쌓는 것. 가치 없는 대량 DM은 역효과.
 
 ---
@@ -111,4 +111,4 @@
 3. 2.3의 **4신호**를 의도적으로 심기 — 회사 문화에 맞춰 변주(NVIDIA = 공개 리더보드·GPU·referral·영어).
 4. 3번처럼 STAR + 5단계 프레임으로 스토리화하되, **영문 버전을 1급 산출물로** 둔다.
 
-> 같은 틀의 다른 샘플: [[skhynix-yield-data-analysis.md]](제조 도메인 + 협업·배포 신호). NVIDIA는 도메인 대신 **검증가능 순위 + GPU + referral + 영어**로 무게중심이 이동한다는 점이 차이.
+> 같은 틀의 다른 샘플: [skhynix-yield-data-analysis.md](skhynix-yield-data-analysis.md)(제조 도메인 + 협업·배포 신호). NVIDIA는 도메인 대신 **검증가능 순위 + GPU + referral + 영어**로 무게중심이 이동한다는 점이 차이.

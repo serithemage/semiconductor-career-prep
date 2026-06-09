@@ -1,7 +1,7 @@
 # JD ↔ 역량 갭분석 프롬프트 템플릿
 
 > 채용공고(JD)와 본인 이력을 입력하면, **증명해야 할 역량 / 본인 역량 갭 / 메울 액션**을 뽑아주는 재사용 프롬프트.
-> ChatGPT·Claude 등 어떤 LLM에도 붙여넣어 쓴다. 근거: [[../../docs/ai-workflow.md]]
+> ChatGPT·Claude 등 어떤 LLM에도 붙여넣어 쓴다. 근거: [ai-workflow.md](../../docs/ai-workflow.md)
 >
 > ⚠️ 윤리 경계: 이 템플릿은 **갭을 진단하고 준비 전략을 세우는 용도**다. 없는 경험을 만들거나 면접에서 방어 못 할 키워드를 넣는 데 쓰지 않는다. (Not: 허위/과장 금지와 일관)
 
@@ -10,7 +10,7 @@
 ## 사용법
 1. 아래 `STEP 1` 프롬프트에 **JD 전문**과 **본인 이력/이력서**를 채워 실행.
 2. 결과를 확인하고 `STEP 2`, `STEP 3`을 순서대로 이어서 실행(같은 대화창).
-3. 마지막 `STEP 3` 산출물(갭→액션)을 포트폴리오 설계([[../portfolio-samples/skhynix-yield-data-analysis.md]])의 입력으로 사용.
+3. 마지막 `STEP 3` 산출물(갭→액션)을 포트폴리오 설계([skhynix-yield-data-analysis.md](../portfolio-samples/skhynix-yield-data-analysis.md))의 입력으로 사용.
 
 ---
 
