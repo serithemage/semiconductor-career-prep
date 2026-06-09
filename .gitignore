@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Data (대용량 데이터셋은 커밋하지 않는다 — 출처에서 내려받아 사용)
+data/
+*.pkl
+*.mat
+*.csv
+
+# Models / artifacts
+*.pt
+*.pth
+*.h5
+mlruns/
+
+# Env / secrets
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
